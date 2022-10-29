@@ -1,0 +1,7 @@
+# files
+.env*
+*.js
+*.css
+# folders 
+.vscode
+
